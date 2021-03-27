@@ -1,6 +1,5 @@
 # Test-Repo
 
-
-|                 Onboarding Screen               |                 Login / Signup                |                    HomePage                    |
-|:-------------------------------------------------:|:-------------------------------------------------:|:-------------------------------------------------:|
-| <img width="1604" src="./Screenshots/login_screen.jpeg"> | <img width="1604" src="./Screenshots/register_screen.jpeg"> | <img width="1604" src="./Screenshots/home_screen.jpeg"> |
+|Login Screen|Register Screen|Home Screen|
+|---------------------------------------------------------|------------------------------------------------------------|--------------------------------------------------------|
+| <img width="300" src="./Screenshots/login_screen.jpeg"> | <img width="300" src="./Screenshots/register_screen.jpeg"> | <img width="300" src="./Screenshots/home_screen.jpeg"> | 
